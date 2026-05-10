@@ -17,4 +17,5 @@ def generate_checkerboard(size=1080, squares=8):
                 
     img.save("Final/images/checkerboard.png")
 
+
 generate_checkerboard(1080, 8) 
